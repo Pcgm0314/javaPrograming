@@ -17,7 +17,7 @@ class Circle{
 }
 
 public class CircleArray {
-	public static void main(String[] args) { //메인 먼저 값 반환 X
+	public static void main(String[] args) { //메인 먼저 /값 반환 X
 		Circle [] c; //Circle 클래스의 c라는 이름의 배열을 선언합니다
 		c = new Circle[5]; //c는 Circle 클래스의 인스턴스를 저장하는 배열
 		
